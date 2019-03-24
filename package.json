@@ -1,0 +1,13 @@
+{
+  "name": "fake-data-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "generate:data": "node scripts/generateData.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
